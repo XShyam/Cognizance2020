@@ -53,9 +53,7 @@ ___
 
 __VERSION HISTORY__
 
-* XML 1.0
-* XML 1.1
-* XML 2.0
+
 ___
 >## THANK YOU!
 <BR> 
