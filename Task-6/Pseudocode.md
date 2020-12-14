@@ -30,7 +30,7 @@ ___
 
     While NUM > 0
 
-        Assign RE = NUM%10
+        Assign RE = NUM MOD 10
         Assign SUM = SUM + ( RE ^ 3 )
         Assign NUM = NUM/10
     
